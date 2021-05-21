@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <string name="add_new">Add New Contact</string>
+    <string name="hint_name">Contact Name</string>
+    <string name="hint_phone">Phone No.</string>
+    <string name="saveBtn">Save</string>
+    <string name="fab_name">Floating Action Button Add</string>
+
+    <string name="work">Work</string>
+    <string name="friends">Friends</string>
+    <string name="school">School</string>
+    <string name="blacklist">Blacklist</string>
+    <string name="neighbors">Neighbors</string>
+
+    <string name="vecImg">Vector Image</string>
+</resources>
